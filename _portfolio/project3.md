@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+title: very fit
+subtitle: whoa
+image: https://raw.githubusercontent.com/g7789-q/g77589d/master/assets/img/fit.jpg
 alt: 
 
 caption:
