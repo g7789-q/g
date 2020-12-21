@@ -1,18 +1,13 @@
 ---
-title: very fun
-subtitle: and funny!
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: a very good singer
+subtitle: AHHHHHHHHHHHHHHH!
+image: https://raw.githubusercontent.com/g7789-q/g77589d/master/assets/img/singer.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: very fun
-  subtitle: and funny!
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: a very good singer
+  subtitle: lala lalaalala
+  thumbnail: https://raw.githubusercontent.com/g7789-q/g77589d/master/assets/img/singer-thumb.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: January 2017
-- Client: have
-- Category: fun
+especially when he has his noise proof headphones on
 
