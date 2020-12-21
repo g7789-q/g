@@ -1,26 +1,23 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: happy bday mitch
+    text: 
+    button: 
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Mitch for sale"
+    text: "skills"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Mitch for chef"
+        desc: "once did not cook food for four months only ordered in and ate candy also was living in hungary"
+        icon: fas fa-utensils #find more at https://fontawesome.com/icons
+      - title: "Mitch for president"
+        desc: "very smart"
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Mitch for papa"
+        desc: "hey"
+        icon: fas fa-bong
 
 portfolio:
     title: "Portfolio"
