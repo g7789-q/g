@@ -26,13 +26,13 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "timeline" 
+    text: "mitch's accomplishments"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "was born"
+        year: "1995"
+        desc: "this was a very good thing"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
