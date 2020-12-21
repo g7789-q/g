@@ -20,8 +20,8 @@ services:
         icon: fas fa-bong
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "testemonials"
+    text: "what people have to say"
     section: portfolio
     
 
