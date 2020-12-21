@@ -1,7 +1,7 @@
 ---
 title: lover of dogs
 subtitle: woof woof
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: https://raw.githubusercontent.com/g7789-q/g77589d/master/assets/img/dogs.jpg
 alt: Keep Exploring
 
 caption:
