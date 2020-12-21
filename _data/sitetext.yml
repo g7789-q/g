@@ -5,14 +5,15 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Mitch for sale"
+    title: "mitch has a lot of skills"
     text: "skills"
     section: services
     list:
-      - title: "Mitch for chef"
+      - title: "chef"
         desc: "once did not cook food for four months only ordered in and ate candy also was living in hungary"
         icon: fas fa-utensils #find more at https://fontawesome.com/icons
-      - title: "Mitch for president"
+      - title: "presidential"
+        desc: "always working very hard"
         desc: "very smart"
         icon: fas fa-laptop       
       - title: "Mitch for papa"
@@ -20,8 +21,8 @@ services:
         icon: fas fa-baby
 
 portfolio:
-    title: "testemonials"
-    text: "what people have to say"
+    title: "other characteristics"
+    text: "what people say about mitch"
     section: portfolio
     
 
