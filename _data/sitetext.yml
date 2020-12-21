@@ -12,9 +12,8 @@ services:
       - title: "chef"
         desc: "once did not cook food for four months only ordered in and ate candy also was living in hungary"
         icon: fas fa-utensils #find more at https://fontawesome.com/icons
-      - title: "presidential"
-        desc: "always working very hard"
-        desc: "very smart"
+      - title: "tasks"
+        desc: "always working very hard, completes all the tasks on his to do list"
         icon: fas fa-laptop       
       - title: "Mitch for papa"
         desc: "hey"
