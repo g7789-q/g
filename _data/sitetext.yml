@@ -6,7 +6,7 @@ header:
 
 services:
     title: "mitch has a lot of skills"
-    text: "skills"
+    text: "skills:"
     section: services
     list:
       - title: "chef"
@@ -15,7 +15,7 @@ services:
       - title: "tasks"
         desc: "always working very hard, completes all the tasks on his to do list"
         icon: fas fa-laptop       
-      - title: "Mitch for papa"
+      - title: "papa-esque"
         desc: "hey"
         icon: fas fa-baby
 
