@@ -54,7 +54,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "[Apply Now!](https://forms.gle/REpKhYfTLfFNdaoh7 "Apply Now")"
 
 about:
     title: "About Us"
