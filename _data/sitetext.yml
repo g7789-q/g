@@ -17,7 +17,7 @@ services:
         icon: fas fa-laptop       
       - title: "Mitch for papa"
         desc: "hey"
-        icon: fas fa-bong
+        icon: fas fa-baby
 
 portfolio:
     title: "testemonials"
