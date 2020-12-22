@@ -125,7 +125,6 @@ footer:
     legal: "Privacy Policy"
     social:
       - url: https://forms.gle/9hxvUgMA869xhdGu8
-        icon: "fab fa-google"  
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
