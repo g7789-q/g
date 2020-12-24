@@ -16,12 +16,21 @@ services:
         desc: "always working very hard, completes all the tasks on his to do list"
         icon: fas fa-laptop       
       - title: "papa-esque"
-        desc: "hey"
+        desc: "will take really good care of you"
         icon: fas fa-baby
+      - title: "always beautiful"
+        desc: "plans his outfits 2 weeks ahead of any event "
+        icon: fas fa-hat-cowboy
+      - title: "Never not dancing"
+        desc: "its true"
+        icon: fas fa-walking
+      - title: "biggest jock of all"
+        desc: "jogs a lot"
+        icon: fas fa-running
 
 portfolio:
     title: "other characteristics"
-    text: "what people say about mitch"
+    text: "what people think about mitch"
     section: portfolio
     
 
@@ -30,15 +39,15 @@ timeline:
     text: "mitch's accomplishments"
     section: timeline
     events:
-      - title: "was born"
+      - title: "An agency was born"
         year: "1995"
         desc: "this was a very good thing"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "got a blackbelt"
+        year: "sometime during childhood"
+        desc: "can fend off attackers"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
