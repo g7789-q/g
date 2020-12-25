@@ -20,7 +20,7 @@ services:
         icon: fas fa-baby
       - title: "always beautiful"
         desc: "plans his outfits 2 weeks ahead of any event "
-        icon: fas fa-hat-cowboy
+        icon: fab fa-redhat
       - title: "Never not dancing"
         desc: "its true"
         icon: fas fa-walking
