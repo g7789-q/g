@@ -1,12 +1,12 @@
 ---
 title: very athletic
-subtitle: can't stress that enought
+subtitle: cant stress that enought
 image: 
 alt: 
 
 caption:
   title: very athletic
-  subtitle: can't stress that enought
+  subtitle: cant stress that enought
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
 
