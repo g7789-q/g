@@ -57,13 +57,13 @@ timeline:
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "your birthday!!"
+        year: "today"
+        desc: ":)"
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Happy"
+  
 
 about:
     title: "About Us"
