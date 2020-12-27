@@ -10,6 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
 
-<iframe src="https://player.vimeo.com/video/494986367?byline=0&portrait=0" width="640" height="1136" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/494986367?loop=1&byline=0&portrait=0" width="640" height="1136" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
