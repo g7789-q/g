@@ -1,15 +1,16 @@
 ---
 title: flawless australian accent
 subtitle: 
-image: https://vimeo.com/494983876
+image: 
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: flawless 
+  subtitle: australian accent
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+<iframe src="https://player.vimeo.com/video/494983876" width="640" height="1131" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/494983876">flawless australian accent</a> from <a href="https://vimeo.com/user130056485"></a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 
