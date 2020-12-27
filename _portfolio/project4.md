@@ -1,7 +1,7 @@
 ---
 title: flawless australian accent
 subtitle: 
-image: assets/img/portfolio/03-full.mp4
+image: https://vimeo.com/494983876
 alt: 
 
 caption:
