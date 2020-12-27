@@ -1,7 +1,7 @@
 ---
 title: flawless australian accent
 subtitle: 
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/03-full.mp4
 alt: 
 
 caption:
