@@ -39,7 +39,7 @@ timeline:
     text: "mitch's accomplishments"
     section: timeline
     events:
-      - title: "An agency was born"
+      - title: "birthed"
         year: "1995"
         desc: "this was a very good thing"
         image: assets/img/timeline/1.jpg
