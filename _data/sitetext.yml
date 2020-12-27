@@ -50,19 +50,13 @@ timeline:
         desc: "can fend off attackers"
         image: assets/img/timeline/2.jpg
         alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
+        align: right    
       - title: "your birthday!!"
         year: "today"
         desc: ":)"
         image: assets/img/timeline/4.jpg
         alt: 
-        align: right
+        align: left
   
 
 about:
